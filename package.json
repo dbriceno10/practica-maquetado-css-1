@@ -1,0 +1,23 @@
+{
+  "name": "practica-maquetado-css-1",
+  "version": "1.0.0",
+  "description": "práctica de maquetado html y css",
+  "main": "ejmplo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbriceno10/practica-maquetado-css-1.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Daniel Briceno <daniel.b100726@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbriceno10/practica-maquetado-css-1/issues"
+  },
+  "homepage": "https://github.com/dbriceno10/practica-maquetado-css-1#readme"
+}
